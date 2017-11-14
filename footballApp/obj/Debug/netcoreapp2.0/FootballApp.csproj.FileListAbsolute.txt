@@ -1,0 +1,11 @@
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\bin\Debug\netcoreapp2.0\FootballApp.deps.json
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\bin\Debug\netcoreapp2.0\FootballApp.runtimeconfig.json
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\bin\Debug\netcoreapp2.0\FootballApp.runtimeconfig.dev.json
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\bin\Debug\netcoreapp2.0\FootballApp.dll
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\bin\Debug\netcoreapp2.0\FootballApp.pdb
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\obj\Debug\netcoreapp2.0\FootballApp.csprojResolveAssemblyReference.cache
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\obj\Debug\netcoreapp2.0\FootballApp.csproj.CoreCompileInputs.cache
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\obj\Debug\netcoreapp2.0\FootballApp.AssemblyInfoInputs.cache
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\obj\Debug\netcoreapp2.0\FootballApp.AssemblyInfo.cs
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\obj\Debug\netcoreapp2.0\FootballApp.dll
+C:\Users\kristopher.doidge\source\repos\footballApp\footballApp\obj\Debug\netcoreapp2.0\FootballApp.pdb

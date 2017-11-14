@@ -1,0 +1,18 @@
+using System;
+using Xunit;
+using FootballApp.Controllers;
+
+
+namespace footballApiTest
+{
+    public class UnitTest1
+    {
+        [Fact]
+        public void ItExists()
+        {
+            var playerController = new PlayersController();
+        }
+
+
+    }
+}
