@@ -7,6 +7,6 @@ dist: trusty
 sudo: false
 solution: footballApp.sln
 script:
-  -dotnet restore
-  -dotnet build
-  -dotnet test footballApp/footballApp.csproj
+  - dotnet restore
+  - dotnet build
+  - dotnet test footballApp/footballApp.csproj
