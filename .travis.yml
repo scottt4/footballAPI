@@ -7,7 +7,7 @@ dist: trusty
 sudo: false
 solution: FootAPI.sln
 script:
-  -cd FootballAPI
+  -cd footballApp
   -dotnet restore
   -dotnet build
-  -dotnet test FootballAPI/FootballAPI.csproj
+  -dotnet test footballApp/footballApp.csproj
