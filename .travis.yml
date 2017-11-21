@@ -9,4 +9,4 @@ solution: footballApp.sln
 script:
   - dotnet restore
   - dotnet build
-  - dotnet test footballApi/footballApiTest.csproj
+  - dotnet test footballApiTest/footballApiTest.csproj
